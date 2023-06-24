@@ -1,7 +1,7 @@
-const data = function checkValueValidation(value:string): boolean {
-    if(typeof value ==='string') return true;
+const data = function checkValueValidation(value: string): boolean {
+  if (typeof value === 'string') return true
 
-    return false;
+  return false
 }
 
-export default data;
+export default data

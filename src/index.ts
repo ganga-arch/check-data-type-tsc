@@ -1,5 +1,3 @@
-import data from "./fileType";
+import data from './fileType'
 
-
-
-export {data};
+export { data }
